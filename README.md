@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nathxav
-- 👀 I’m interested in Cisco IOS, Docker and
+- 👀 I’m interested in Cisco IOS, Docker, Python and JavaScript
 - 🌱 I’m currently learning JavaScript, Python, HTML and CSS
 - 💞️ I’m looking to collaborate on JavaScript projects 
 - 📫 How to reach me ...
